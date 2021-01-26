@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactBirthday/static/css/main.15ca7ee4.chunk.css",
+    "main.js": "/reactBirthday/static/js/main.3613e662.chunk.js",
+    "main.js.map": "/reactBirthday/static/js/main.3613e662.chunk.js.map",
+    "runtime-main.js": "/reactBirthday/static/js/runtime-main.a586800e.js",
+    "runtime-main.js.map": "/reactBirthday/static/js/runtime-main.a586800e.js.map",
+    "static/js/2.7d3e8762.chunk.js": "/reactBirthday/static/js/2.7d3e8762.chunk.js",
+    "static/js/2.7d3e8762.chunk.js.map": "/reactBirthday/static/js/2.7d3e8762.chunk.js.map",
+    "index.html": "/reactBirthday/index.html",
+    "static/css/main.15ca7ee4.chunk.css.map": "/reactBirthday/static/css/main.15ca7ee4.chunk.css.map",
+    "static/js/2.7d3e8762.chunk.js.LICENSE.txt": "/reactBirthday/static/js/2.7d3e8762.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a586800e.js",
+    "static/js/2.7d3e8762.chunk.js",
+    "static/css/main.15ca7ee4.chunk.css",
+    "static/js/main.3613e662.chunk.js"
+  ]
+}
